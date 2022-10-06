@@ -9,4 +9,4 @@ def chocolate_maker(small, big, x):
         return False
 
 
-print(chocolate_maker(8, 2, 10))
+print(chocolate_maker(20, 2, 10))
